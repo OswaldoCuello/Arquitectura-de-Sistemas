@@ -1,4 +1,4 @@
-# proyecto-citas-medicas-g03
+# Arquitectura de Sistemas Computacionales
 Proyecto de la asignatura Arquitectura de Sistemas Computacionales.
 ## Problema
 Dos o tres lineas sobre que problema resuelve el sistema y para quien.
